@@ -1,9 +1,9 @@
-API_ID = 123456
-API_HASH = "your_api_hash"
-BOT_TOKEN = "your_bot_token"
+API_ID = 24168862
+API_HASH = "916a9424dd1e58ab7955001ccc0172b3"
+BOT_TOKEN = "8312950490:AAFZoxtigPtaCNRHgSpUtGOb5qO67krEtc8"
 
-# xAPIverse Key
 TERABOX_KEY = "sk_b1007af7ec00ac92596eba542be633c5"
 
-# Admin ID (broadcast ke liye)
-ADMIN_ID = 123456789
+MONGO_URL = "mongodb+srv://jaydipmore74:xCpTm5OPAfRKYnif@cluster0.5jo18.mongodb.net/?retryWrites=true&w=majority"
+
+ADMIN_ID = 6421770811
